@@ -43,22 +43,28 @@ This project utilizes the price on items to calculate the average, max, and mini
  - write up
 
 Initial project idea: 
+
 The idea of this project came from wanting to simulate a personality tester. This project allows an individual to find their personality type based on questions prompted. The projects helps an individual find out the type of personal they are.
 
 Tools I used: 
+
 What tools did you use in completing this project? 
 In this project I utilized coding software such as Jdoodle and PyCharm to write and test my code. I utilized some python tutorials to fully construct my code and make sure it runs correct and efficiently.
 
 Challenges I faced:
+
 When coding this project, the challenge I faced was making sure my code iterated through each of the questions instead of looping on the same question.
 
 Other Resources: 
+
 In this project I did not utilize any additional resources.
 
 Result:
+
 The goal of this program was to display a personality based on ten questions asked. The code successfully ran and printed out different personality types based on a point system. Given more time I would improve this project by adding more questions and more personality type to make it as specific as possible. 
 
 Summary:
+
 This project simulates a personality test by asking the user a series of questions and utilizing a point system to determine which personality type the user has.
 
 
