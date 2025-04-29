@@ -19,7 +19,7 @@ Loyola University, MD
 
 #### Project 1 Title
  - image
- - Report
+ - 
 Initial project idea: 
 The idea of this project came from wanting the analysis of the pricing of a specific number of items and calculating the data. This project finds the average price of the items, the max price of the items, and the minimum retail price. This data can be used to make price changes and analyze profits. 
 Tools I used: 
