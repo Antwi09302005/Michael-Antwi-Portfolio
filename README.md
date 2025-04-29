@@ -7,7 +7,7 @@ With skills in data management using excel, programming in python, programming i
 
 My quality skill set, commitment to self-discipline, and passion for data science make me a valuable asset.  In my spare time, I like to work out and listen to podcasts. 
 
-You can find me on LinkedIn: [LinkedIn](www.linkedin.com/in/michael-antwi-a559302b2).
+You can find me on LinkedIn: [LinkedIn](www.linkedin.com/in/michael-antwi-a559302b2/).
 
 
 
