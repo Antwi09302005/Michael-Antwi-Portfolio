@@ -17,7 +17,7 @@ Loyola University, MD
 
 ### Projects
 
-#### Project 1 Title
+#### Project 1: Item Data Analysis Chart
 ![Image 1](Screenshot 2025-04-21 141303.png)
 
 #### Summary:
@@ -45,7 +45,7 @@ In this project the goal was to utilize data of each item and use it to find the
 
 
 ***
-#### Project 2 Title
+#### Project 2: Personality Test Python Program
 ![Image 2](Screenshot 2025-04-21 141950.png)
  
 #### Summary:
@@ -75,7 +75,7 @@ The goal of this program was to display a personality based on ten questions ask
 
 
 ***
-#### Project 3 Title
+#### Project 3: BMW Dealership Data Chart
 ![Image 3](Screenshot 2025-04-21 142626.png)
 
 #### Summary:
