@@ -18,7 +18,7 @@ Loyola University, MD
 ### Projects
 
 #### Project 1 Title
-[Image 1](/Projec/Screenshot 2025-04-21 141303.png)
+![Image 1](Screenshot 2025-04-21 141303.png)
 
 #### Initial project idea: 
 
@@ -46,7 +46,7 @@ This project utilizes the price on items to calculate the average, max, and mini
 
 ***
 #### Project 2 Title
-[Image 2]("C:\Users\micha\OneDrive\Projec\Screenshot 2025-04-21 141950.png")
+![Image 2](Screenshot 2025-04-21 141950.png)
  
 
 #### Initial project idea: 
@@ -77,7 +77,7 @@ This project simulates a personality test by asking the user a series of questio
 
 ***
 #### Project 3 Title
-[Image 3]("C:\Users\micha\OneDrive\Projec\Screenshot 2025-04-21 142626.png")
+![Image 3](Screenshot 2025-04-21 142626.png)
  
 #### Initial project idea: 
 
