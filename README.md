@@ -18,12 +18,12 @@ Loyola University, MD
 ### Projects
 
 #### Project 1 Title
-[Image 1]("C:\Users\micha\OneDrive\Projec\Screenshot 2025-04-21 141303.png")
+[Image 1](/Projec/Screenshot 2025-04-21 141303.png)
 
 #### Initial project idea: 
 
 The idea of this project came from wanting the analysis of the pricing of a specific number of items and calculating the data. This project finds the average price of the items, the max price of the items, and the minimum retail price. This data can be used to make price changes and analyze profits. 
-
+ 
 #### Tools I used: 
 
 In this project I utilized Microsoft Excel, conditional formatting, excel graphing, and calculations to correctly display the data and display proper profit margin requirements.
